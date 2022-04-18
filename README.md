@@ -153,7 +153,10 @@ Will isolate specific data on pt2
 This may include hover effects, pop-ups, animations, changes to the existing styling, etc. 
 Show off your creativity and styling ability.*
 
-Added JavaScript slideshow with imgs to console page displaying different gym setups, 
+ ![Slideshow](https://user-images.githubusercontent.com/92835555/163751108-9683513c-87eb-4311-bb3f-24d13cb4c91c.PNG)
+Added JavaScript slideshow with imgs to console
+
+page displaying different gym setups, 
 added CSS animations and styling to navbar and other text
 
 - Updated models for more database choices for user equipment additons
