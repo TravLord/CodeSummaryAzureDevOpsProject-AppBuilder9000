@@ -16,6 +16,7 @@ This is the code summary for Appbuilder 9000.  The Tech Academy live project uti
 - Template pages: HTML, Django, JavaScript, CSS, Bootstrap
 - View Functions: Python
 
+![Appbuilder9000Cover](https://user-images.githubusercontent.com/92835555/163749285-a4c1e795-0e4f-4192-8bce-f7b8b49ed071.PNG)
 
 #### User Story #1
 
@@ -23,7 +24,7 @@ This is the code summary for Appbuilder 9000.  The Tech Academy live project uti
 *Create a new app for the project, named appropriately for what you are tracking, 
 and get it to display a home page with basic content.* 
 
-![Appbuilder9000Cover](https://user-images.githubusercontent.com/92835555/163748224-afaca248-d8b6-47d8-bb36-c224ec36c49b.PNG)
+
 ![MyAppHover](https://user-images.githubusercontent.com/92835555/163748251-e3dfaf8b-bf49-48c1-9896-2e5a6cb33d49.PNG)
 
 - This story was the introduction.  I cloned the project to my machine using
