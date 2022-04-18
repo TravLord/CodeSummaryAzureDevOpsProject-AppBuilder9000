@@ -42,11 +42,14 @@ and get it to display a home page with basic content.*
 
 **Description-**
 *Create a model for the collection item you will be tracking and add the ability to create a new item.*
+
 ![HomePage](https://user-images.githubusercontent.com/92835555/163748681-f172bc2e-3e03-4d1c-96cb-50c266a63c62.PNG)
 
 ![BaseCodeSnippet](https://user-images.githubusercontent.com/92835555/163748739-892e6bc1-32c5-4062-86c7-1b5a399e3667.PNG)
 
-- built all template pages 
+ ![AddNewItem](https://user-images.githubusercontent.com/92835555/163750136-d354aee4-78d8-46df-8624-d25fcea601c9.PNG)
+ 
+- built all template pages
 - added to entire project urls.py file installed apps
 - mapped url patterns ,created blank -background img
 - home & base templates created.
@@ -99,6 +102,7 @@ Link this to the index page for each item.*
 
 **Description-**
 *Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.*
+
 ![WebScrapePage](https://user-images.githubusercontent.com/92835555/163749153-9d0fdf26-0254-4f6d-aa93-7a851e84537a.PNG)
 
 Added template file, mapped url pattern, created new 
