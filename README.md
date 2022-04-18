@@ -154,7 +154,7 @@ This may include hover effects, pop-ups, animations, changes to the existing sty
 Show off your creativity and styling ability.*
 
  ![Slideshow](https://user-images.githubusercontent.com/92835555/163751108-9683513c-87eb-4311-bb3f-24d13cb4c91c.PNG)
-Added JavaScript slideshow with imgs to console
+Added JavaScript slideshow with images to add equipment page.
 
 page displaying different gym setups, 
 added CSS animations and styling to navbar and other text
