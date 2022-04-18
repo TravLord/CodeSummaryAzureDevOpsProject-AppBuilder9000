@@ -1,11 +1,11 @@
-# CodeSummaryAzureDevOpsProject-AppBuilder9000
+## CodeSummaryAzureDevOpsProject-AppBuilder9000
 This is the code summary for Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
- ##Code Summary for Azure DevOps Web Application Development Team Project -
+ ## Code Summary for Azure DevOps Web Application Development Team Project -
 
-###AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
+### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
 
-####This project was composed of and used the following technologies.
+#### This project was composed of and used the following technologies.
 
 - 2 week live project sprint
 - 10+ Python Developer Team Members 
@@ -17,7 +17,7 @@ This is the code summary for Appbuilder 9000.  The Tech Academy live project uti
 - View Functions: Python
 
 
-####User Story #1
+#### User Story #1
 
 **Description-**
 *Create a new app for the project, named appropriately for what you are tracking, 
@@ -33,7 +33,7 @@ and get it to display a home page with basic content.*
 - Commited and created pull request for merge, pull then merged with master.
 
 
-####User Story #2-3
+#### User Story #2-3
 
 **Description-**
 *Create a model for the collection item you will be tracking and add the ability to create a new item.*
@@ -52,7 +52,7 @@ and get it to display a home page with basic content.*
 - Commited and created pull request for merge, pull then merged with master.
 
 
-####User Story #4
+#### User Story #4
 
 **Description-**
 *Create a details page that will show the details of any single item from within the database, as selected by the user. 
@@ -70,7 +70,7 @@ Link this to the index page for each item.*
 - Commited and created pull request for merge, pull then merged with master.
 
 
-####User Story #5
+#### User Story #5
 
 **Description-**
 *Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.*
@@ -85,7 +85,7 @@ Link this to the index page for each item.*
   styling to all pages 
 - Commited and created pull request for merge, pull then merged with master.
 
-####User Story #6
+#### User Story #6
 
 **Description-**
 *Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.*
@@ -101,7 +101,7 @@ view function to scrape webpage, added navbar link to equipment info to webscrap
 - Commited and created pull request for merge, pull then merged with master.
 
 
-####User Story #7
+#### User Story #7
 
 **Description-**
 *Parse through the html returned and display the information you want to display. Make sure you are getting into the individual elements
@@ -116,7 +116,7 @@ Added to view function to display data on template page,  Added links to source 
 - Commited and created pull request for merge, pull then merged with master.
 
 
-####User Story #8
+#### User Story #8
 
 **Description-**
 *Connect to your chosen API and get the JSON response, add in a template for displaying the information.*
@@ -131,7 +131,7 @@ Will isolate specific data on pt2
 -created link through navbar for click activated template page display
 
 
-####User Story #9
+#### User Story #9
 
 **Description-**
 *Go through your various templates and add improvements to the UI/UX. 
