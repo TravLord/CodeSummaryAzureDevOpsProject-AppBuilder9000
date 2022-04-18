@@ -23,7 +23,11 @@ This is the code summary for Appbuilder 9000.  The Tech Academy live project uti
 *Create a new app for the project, named appropriately for what you are tracking, 
 and get it to display a home page with basic content.* 
 
-- This story was the introduction.  I cloned the project to my machine using git 
+![Appbuilder9000Cover](https://user-images.githubusercontent.com/92835555/163748224-afaca248-d8b6-47d8-bb36-c224ec36c49b.PNG)
+![MyAppHover](https://user-images.githubusercontent.com/92835555/163748251-e3dfaf8b-bf49-48c1-9896-2e5a6cb33d49.PNG)
+
+- This story was the introduction.  I cloned the project to my machine using
+ git 
   for source control and PyCharm for the IDE utilizing the Django Framework.  
 - After virtual environment created, dependencies downloaded and branches created and updated, 
 - I added my name to the group sign in template page along with my collectable item and app name. 
@@ -37,7 +41,10 @@ and get it to display a home page with basic content.*
 
 **Description-**
 *Create a model for the collection item you will be tracking and add the ability to create a new item.*
-  
+![HomePage](https://user-images.githubusercontent.com/92835555/163748681-f172bc2e-3e03-4d1c-96cb-50c266a63c62.PNG)
+
+![BaseCodeSnippet](https://user-images.githubusercontent.com/92835555/163748739-892e6bc1-32c5-4062-86c7-1b5a399e3667.PNG)
+
 - built all template pages 
 - added to entire project urls.py file installed apps
 - mapped url patterns ,created blank -background img
@@ -58,6 +65,7 @@ and get it to display a home page with basic content.*
 *Create a details page that will show the details of any single item from within the database, as selected by the user. 
 Link this to the index page for each item.*
 
+![productDetails](https://user-images.githubusercontent.com/92835555/163748864-90bc6c6d-0cab-4721-933d-57b435504ff7.PNG)
 
 - Added Your Collection tab to navbar that links to form displaying results of all database objects
 - Created table template details to display all previously user added
@@ -75,6 +83,7 @@ Link this to the index page for each item.*
 **Description-**
 *Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.*
 
+![ConfirmDelete](https://user-images.githubusercontent.com/92835555/163749003-2f0cf171-7937-441f-b281-c887bf564d5e.PNG)
 
 - Added details page for individual profile ui template
 - Added another edit page template linked through profile details page 
@@ -89,6 +98,7 @@ Link this to the index page for each item.*
 
 **Description-**
 *Create a new template for displaying information sourced from another website. Use Beautiful Soup to data scrape the site and find the relevant information.*
+![WebScrapePage](https://user-images.githubusercontent.com/92835555/163749153-9d0fdf26-0254-4f6d-aa93-7a851e84537a.PNG)
 
 Added template file, mapped url pattern, created new 
 view function to scrape webpage, added navbar link to equipment info to webscrape output
