@@ -1,5 +1,5 @@
-## CodeSummaryAzureDevOpsProject-AppBuilder9000
-This is the code summary for Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
+## Code Summary Azure DevOps Development Team Project- AppBuilder9000
+Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
  ## Code Summary for Azure DevOps Web Application Development Team Project -
 
