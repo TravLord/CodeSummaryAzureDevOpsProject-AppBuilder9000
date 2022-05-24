@@ -5,7 +5,7 @@ Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
 ### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
 
-#### This project was composed of and used the following technologies.
+#### This project was composed of the following:
 
 - 2 week live project sprint
 - 10+ Python Developer Team Members 
