@@ -1,8 +1,6 @@
 ## Code Summary Azure DevOps Development Team Project- AppBuilder9000
 Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
- ## Code Summary for Azure DevOps Web Application Development Team Project -
-
 ### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
 
 #### This project was composed of the following:
