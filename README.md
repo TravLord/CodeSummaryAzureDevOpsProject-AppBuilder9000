@@ -42,6 +42,7 @@ and get it to display a home page with basic content.*
 
 **Description-**
 *Create a model for the collection item you will be tracking and add the ability to create a new item.*
+![AppbuilderModels](https://user-images.githubusercontent.com/92835555/172030557-ff9807e0-ef83-42a6-bf12-e7e3d9f86836.PNG)
 
 ![HomePage](https://user-images.githubusercontent.com/92835555/163748681-f172bc2e-3e03-4d1c-96cb-50c266a63c62.PNG)
 
@@ -69,7 +70,9 @@ and get it to display a home page with basic content.*
 *Create a details page that will show the details of any single item from within the database, as selected by the user. 
 Link this to the index page for each item.*
 
-![productDetails](https://user-images.githubusercontent.com/92835555/163748864-90bc6c6d-0cab-4721-933d-57b435504ff7.PNG)
+![productDetails](https://user-images.githubusercontent.com/92835555/163748864-90bc6c6d-0cab-4721-933d-57b435504ff7.PNG) 
+
+![AppbuilderDetails](https://user-images.githubusercontent.com/92835555/172030606-6cbdc552-bc00-4254-8f78-e2c009fa3fce.PNG)
 
 - Added Your Collection tab to navbar that links to form displaying results of all database objects
 - Created table template details to display all previously user added
@@ -88,6 +91,8 @@ Link this to the index page for each item.*
 *Allow for edits and delete functions to be done from the details page or from separate pages. Have confirmation before deleting.*
 
 ![ConfirmDelete](https://user-images.githubusercontent.com/92835555/163749003-2f0cf171-7937-441f-b281-c887bf564d5e.PNG)
+
+![AppbuilderDeleteConfirm](https://user-images.githubusercontent.com/92835555/172030619-b74c9278-7b83-4fd4-ae63-fc24f165c622.PNG)
 
 - Added details page for individual profile ui template
 - Added another edit page template linked through profile details page 
@@ -130,6 +135,8 @@ Added to view function to display data on template page,  Added links to source 
 - Completed 2nd step of beautiful soup web scrape
 - Commited and created pull request for merge, pull then merged with master.
 
+![AppbuilderBeautiful ](https://user-images.githubusercontent.com/92835555/172030636-7420b478-e2be-4496-9e34-5521d58ad8a7.PNG)
+
 
 #### User Story #8
 
@@ -144,6 +151,8 @@ Will isolate specific data on pt2
 - created base linked template page for API page for display.
 - mapped url patterns
 -created link through navbar for click activated template page display
+
+![AppbuilderAPI](https://user-images.githubusercontent.com/92835555/172030698-ea2fe6f3-c4dc-4ff2-9cce-f2a697f893f5.PNG)
 
 
 #### User Story #9
