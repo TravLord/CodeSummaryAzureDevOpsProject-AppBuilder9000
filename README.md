@@ -2,7 +2,7 @@
 Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
 ### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
-### This project was a 2 week internship through the company Prosper I.T Consulting
+### 2 week internship through the company Prosper I.T Consulting
 
 #### This project was composed of the following:
 
