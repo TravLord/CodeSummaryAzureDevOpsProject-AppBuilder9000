@@ -1,4 +1,4 @@
-## Code Summary Azure DevOps Development Team Project- AppBuilder9000
+## Prosper I.T. Internship Team Development Project - AppBuilder9000
 
 ### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
 ### 2 week internship through the company Prosper I.T Consulting
@@ -7,7 +7,7 @@
 
 - 2 week live project sprint
 - 10+ Python Developer Team Members 
-- Azure Devops for project managment
+- Azure Devops for project management
 - Discord for team communication
 - 10 daily standups Discord meetings
 - 2 weekly code retrospects Discord meetings
