@@ -1,4 +1,4 @@
-## Prosper I.T. Internship Team Development Project - AppBuilder9000
+## Prosper I.T. Consulting Internship - Team Web App Development Project 
 
 ### AppBuilder9000 - A web application that houses several individual apps to track and store collectable items.
 ### 2 week internship through the company Prosper I.T Consulting
