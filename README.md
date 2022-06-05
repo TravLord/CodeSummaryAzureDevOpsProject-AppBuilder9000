@@ -8,6 +8,8 @@ Appbuilder 9000.  The Tech Academy live project utilizing Azure DevOps and Git
 
 - 2 week live project sprint
 - 10+ Python Developer Team Members 
+- Azure Devops for project managment
+- Discord for team communication
 - 10 daily standups Discord meetings
 - 2 weekly code retrospects Discord meetings
 - Django Framework
