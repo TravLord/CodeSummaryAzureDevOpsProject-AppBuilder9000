@@ -146,13 +146,15 @@ Added to view function to display data on template page,  Added links to source 
 Added link to nav, created template page, created view function for json API response in terminal. 
 Will isolate specific data on pt2
 
-- API found for useful exercise database info with gif for display
+- API found for useful exercise database info with gif exercise demo for display
 - Connected to API through python view function for terminal print display
 - created base linked template page for API page for display.
 - mapped url patterns
 -created link through navbar for click activated template page display
 
 ![AppbuilderAPI](https://user-images.githubusercontent.com/92835555/172030698-ea2fe6f3-c4dc-4ff2-9cce-f2a697f893f5.PNG)
+
+![RemovedChars](https://user-images.githubusercontent.com/92835555/177060948-768f841f-e520-4db9-b67a-d41c401b8e5f.PNG)
 
 
 #### User Story #9
